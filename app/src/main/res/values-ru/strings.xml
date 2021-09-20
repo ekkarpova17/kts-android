@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Мой Reddit</string>
+    <string name="first_bt">Войти</string>
+    <string name="first_img_desc">Эмблема Reddit</string>
+</resources>
